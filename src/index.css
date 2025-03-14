@@ -196,4 +196,7 @@ code {
     width: 100%;
     padding: 16px;
   }
+  .list-item-icon {
+    display: block;
+  }
 }
