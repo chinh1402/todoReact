@@ -1,0 +1,3 @@
+1. Adding add functionality //
+2. Delete functionality
+3. Local storage
